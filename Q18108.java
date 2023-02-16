@@ -22,4 +22,4 @@ public class Q18108 {
 	}
 }
 
-// What I learned today .. think simply
+//  What I learned today .. think simply
